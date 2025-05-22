@@ -10,12 +10,16 @@ A professional, modern recipe book web application built with HTML, CSS, and Jav
 - Modern professional color theme
 - Data persistence using localStorage
 
+---
+
 ## 🛠 Tech Stack
 
 - HTML5
 - CSS3 (custom, responsive design)
 - JavaScript (vanilla)
 - Browser localStorage for saving data
+
+---
 
 ## 🚀 Getting Started
 
@@ -25,3 +29,23 @@ A professional, modern recipe book web application built with HTML, CSS, and Jav
 
 ## 📦 Folder Structure
 
+```
+weather-app/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
+
+---
+## 🔗 Live Demo
+
+🚀 Deployed App: [Demo](https://akashkumar2011.github.io/JS-weatherApp/)
+
+📂 GitHub Repository: [Code](https://github.com/AkashKumar2011/JS-weatherApp)
+
+---
+
+## 📧 Created By
+
+  Akash Kumar
