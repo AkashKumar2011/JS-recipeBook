@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Recipe Book</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>🍳 My Recipe Book</h1>
+    <input type="text" id="searchBar" placeholder="🔍 Search recipes..." />
+  </header>
+
+  <main>
+    <section class="form-section">
+      <h2>Add a New Recipe</h2>
+      <form id="recipeForm">
+        <input type="text" id="name" placeholder="Recipe Name" required />
+        <textarea id="ingredients" placeholder="Ingredients (comma separated)" required></textarea>
+        <textarea id="steps" placeholder="Preparation Steps" required></textarea>
+        <input type="file" id="image" accept="image/*" />
+        <button type="submit">➕ Add Recipe</button>
+      </form>
+    </section>
+
+    <section id="recipes">
+      <h2>All Recipes</h2>
+      <div id="recipe-list" class="recipe-grid"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Recipe Book | Built with ❤️</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
