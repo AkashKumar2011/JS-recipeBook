@@ -30,7 +30,7 @@ A professional, modern recipe book web application built with HTML, CSS, and Jav
 ## 📦 Folder Structure
 
 ```
-weather-app/
+recipeBook/
 ├── index.html
 ├── style.css
 ├── script.js
@@ -40,9 +40,9 @@ weather-app/
 ---
 ## 🔗 Live Demo
 
-🚀 Deployed App: [Demo](https://akashkumar2011.github.io/JS-weatherApp/)
+🚀 Deployed App: [Demo](https://akashkumar2011.github.io/JS-recipeBook/)
 
-📂 GitHub Repository: [Code](https://github.com/AkashKumar2011/JS-weatherApp)
+📂 GitHub Repository: [Code](https://github.com/AkashKumar2011/JS-recipeBook)
 
 ---
 
